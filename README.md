@@ -21,6 +21,7 @@ O objetivo desse repositório é compartilhar um script de webscraping que obté
 *   BBC
 
 ##  É simples, fácil e rápido!!
+<img src="https://github.com/Patotricks15/econoticias/blob/main/test1.JPG" width="90%"></img>
 
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
