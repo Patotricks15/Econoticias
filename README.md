@@ -21,16 +21,28 @@ O objetivo desse repositório é compartilhar um script de webscraping que obté
 *   BBC
 
 ##  É simples, fácil e rápido!!
-<img src="https://github.com/Patotricks15/econoticias/blob/main/test1.JPG" width="90%"></img>
+<img src="https://github.com/Patotricks15/econoticias/blob/main/exemplo_codigo.JPG" width="90%"></img>
+<img src="https://github.com/Patotricks15/econoticias/blob/main/exemplo_resultado.JPG" width="90%"></img>
+
 
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
 
 Os links do Nexo Jornal precisam ser copiados e colados;
 
-O Valor Econômico está sem os links
+O Valor Econômico está sem os links;
 
-Alguns (poucos) estão sem a data/horário de publicação
+Alguns (poucos) estão sem a data/horário de publicação.
 
 ## PRÓXIMOS PASSOS:
-Correção dos erros citados acima, aplicação em chatbot no Telegram (*já em andamento*), cotação diária do dólar, redução do tamanho dos links, análise de sentimento em cada notícia e mais sites disponíveis
+* Correção dos erros citados acima;
+
+* Aplicação em chatbot no Telegram (*já em andamento*);
+
+* Cotação diária do dólar
+
+* Redução do tamanho dos links
+
+* Análise de sentimento em cada notícia
+
+* Mais sites disponíveis
