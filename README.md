@@ -39,6 +39,8 @@ Apenas clique em "Executar mesmo assim"
 
 Script em .py pra quem preferir https://tinyurl.com/y5vp5yjz
 
+Um agradecimento aos colegas da [Economics Thrash Group](https://www.facebook.com/groups/685748314956833/) pelas recomendações!!
+
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
 
