@@ -1,6 +1,9 @@
 # €conoticia$
 O objetivo desse repositório é compartilhar um script de webscraping que obtém nome, data e link de notícias de economia em 15 jornais escolhidos, sendo eles nacionais 11 e 4 internacionais. A ideia é facilitar o acesso às novidades no mundo da economia através dos jornais. Ao invés de visitar um site de cada vez e procurar por notícias interessantes, esse projeto visa reduzir o tempo gasto com essa atividade, agrupando num único script as notícias recentes na área de economia nesses 15 jornais.
 
+Um agradecimento aos colegas da [Economics Trash Group](https://www.facebook.com/groups/685748314956833/) pelas recomendações!!
+
+
 ## Nacionais
 *   G1
 *   BBC Brasil
@@ -39,7 +42,6 @@ Apenas clique em "Executar mesmo assim"
 
 Script em .py pra quem preferir https://tinyurl.com/y5vp5yjz
 
-Um agradecimento aos colegas da [Economics Thrash Group](https://www.facebook.com/groups/685748314956833/) pelas recomendações!!
 
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
