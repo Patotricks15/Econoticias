@@ -1,12 +1,12 @@
 # €conoticia$
-O objetivo desse repositório é compartilhar um script de webscraping que obtém nome, data e link de notícias de Economia em 15 sites escolhidos, sendo eles nacionais 11 e 4 internacionais.
+O objetivo desse repositório é compartilhar um script de webscraping que obtém nome, data e link de notícias de economia em 15 jornais escolhidos, sendo eles nacionais 11 e 4 internacionais. A ideia é facilitar o acesso às novidades no mundo da economia através dos jornais. Ao invés de visitar um site de cada vez e procurar por notícias interessantes, esse projeto visa reduzir o tempo gasto com essa atividade, agrupando num único script as notícias recentes na área de economia nesses 15 jornais.
 
-## Sites nacionais
+## Nacionais
 *   G1
 *   BBC Brasil
 *   Nexo Jornal
 *   Valor econômico
-*   Valor Invest
+*   Valor Investe
 *   Brazil Journal
 *   Infomoney
 *   Estadão
@@ -14,7 +14,7 @@ O objetivo desse repositório é compartilhar um script de webscraping que obté
 *   Exame
 *   Blog do IBRE
 
-## Sites internacionais
+## Internacionais
 *   Vox
 *   Financial times
 *   New york times
@@ -38,14 +38,15 @@ Apenas clique em "Executar mesmo assim"
 
 
 Script em .py pra quem preferir https://tinyurl.com/y5vp5yjz
+
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
 
-Os links do Nexo Jornal precisam ser copiados e colados;
+* Os links do Nexo Jornal precisam ser copiados e colados;
 
-O Valor Econômico está sem os links;
+* O Valor Econômico está sem os links;
 
-Alguns (poucos) estão sem a data/horário de publicação.
+* Alguns (poucos) estão sem a data/horário de publicação.
 
 ## PRÓXIMOS PASSOS:
 * Correção dos erros citados acima;
