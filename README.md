@@ -21,7 +21,7 @@ O objetivo desse repositório é compartilhar um script de webscraping que obté
 *   BBC
 
 ##  É simples, fácil e rápido!!
-1. Acesse: https://colab.research.google.com/drive/1mNBVCVGtDl00dUergrApEryTR2ObOnTD?usp=sharing
+1. Acesse o notebook: https://colab.research.google.com/drive/1mNBVCVGtDl00dUergrApEryTR2ObOnTD?usp=sharing
 2. Execute a célula com as Bibliotecas, e depois a célula com o script.
 3. Agora escolha o jornal que preferir e execute sua respectiva célula.
 
@@ -35,6 +35,8 @@ Ao tentar executar a primeira célula, aparecerá a seguinte mensagem:
 <img src="https://github.com/Patotricks15/Econoticias/blob/main/mensagem_aviso.JPG" width="50%"></img>
 
 Apenas clique em "Executar mesmo assim"
+
+Script em .py https://tinyurl.com/y5vp5yjz
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
 
