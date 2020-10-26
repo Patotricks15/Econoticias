@@ -55,6 +55,8 @@ Existem alguns erros que ainda não foram corrigidos:
 
 * Cotação diária do dólar
 
+* Data e horário de acesso
+
 * Redução do tamanho dos links
 
 * Análise de sentimento em cada notícia
