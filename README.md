@@ -21,16 +21,20 @@ O objetivo desse repositório é compartilhar um script de webscraping que obté
 *   BBC
 
 ##  É simples, fácil e rápido!!
-1. Baixe o arquivo https://tinyurl.com/y67a6rb5
-2. Acesse: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
-3. Arraste o arquivo baixado na etapa 1
+1. Acesse: https://colab.research.google.com/drive/1mNBVCVGtDl00dUergrApEryTR2ObOnTD?usp=sharing
+2. Execute a célula com as Bibliotecas, e depois a célula com o script.
+3. Agora escolha o jornal que preferir e execute sua respectiva célula.
 
-Depois é só executar as células do notebook
+<img src="https://github.com/Patotricks15/econoticias/blob/main/exemplo_codigo.JPG" width="50%"></img>
 
-<img src="https://github.com/Patotricks15/econoticias/blob/main/exemplo_codigo.JPG" width="90%"></img>
-<img src="https://github.com/Patotricks15/econoticias/blob/main/exemplo_resultado.JPG" width="90%"></img>
+<img src="https://github.com/Patotricks15/econoticias/blob/main/exemplo_resultado.JPG" width="100%"></img>
 
 
+Ao tentar executar a primeira célula, aparecerá a seguinte mensagem:
+
+<img src="https://github.com/Patotricks15/Econoticias/blob/main/mensagem_aviso.JPG" width="50%"></img>
+
+Apenas clique em "Executar mesmo assim"
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
 
