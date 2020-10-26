@@ -36,7 +36,8 @@ Ao tentar executar a primeira célula, aparecerá a seguinte mensagem:
 
 Apenas clique em "Executar mesmo assim"
 
-Script em .py https://tinyurl.com/y5vp5yjz
+
+Script em .py pra quem preferir https://tinyurl.com/y5vp5yjz
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
 
