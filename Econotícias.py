@@ -244,36 +244,29 @@ def bbc():
     link = str(noticia_lista[i]).split('href="')[1].split('"><span')[0]
     print(f'\n\n{noticia}\n{horario}\n{link}\n')
 
+midias = {
+  'g1': g1,
+  'bbc_br': bbc_br,
+  'nexo': nexo,
+  'valor': valor,
+  'valorinveste': valorinveste,
+  'bloomberg_br': bloomberg_br,
+  'infomoney': infomoney,
+  'braziljournal': braziljournal,
+  'exame': exame,
+  'estadao': estadao,
+  'ibre': ibre,
+  'vox': vox,
+  'fintimes': fintimes,
+  'nytimes': nytimes,
+  'bbc': bbc
+}
 
 while True:
-    jornal = input('________________________________________________________________\nEscolha o jornal de sua preferência\n(g1, bbc_br, nexo, valor, valorinveste, bloomberg_br, infomoney, braziljournal, exame, estadao, ibre, vox, fintimes, nytimes, bbc)\n_________________________________________________________________\n>>>')
-    if jornal == 'g1':
-        g1()
-    if jornal == 'bbc_br':
-        bbc_br()
-    if jornal == 'nexo':
-        nexo()
-    if jornal == 'valor':
-        valor()
-    if jornal == 'valorinveste':
-        valorinveste()
-    if jornal == 'bloomberg_br':
-        bloomberg_br()
-    if jornal == 'infomoney':
-        infomoney()
-    if jornal == 'braziljournal':
-        braziljournal()
-    if jornal == 'exame':
-        exame()
-    if jornal == 'estadao':
-        estadao()
-    if jornal == 'ibre':
-        ibre()
-    if jornal == 'vox':
-        vox()
-    if jornal == 'fintimes':
-        fintimes()
-    if jornal == 'nytimes':
-        nytimes()
-    if jornal == 'bbc':
-        bbc()
+    jornal = input('________________________________________________________________\nEscolha o jornal de sua preferência\n(g1, bbc_br, nexo, valor, valorinveste, bloomberg_br, infomoney, braziljournal, exame, estadao, ibre, vox, fintimes, nytimes, bbc)\n[q] para sair\n_________________________________________________________________\n>>>')
+    if jornal in midias:
+      midias[jornal]()
+    elif jornal == 'q':
+      break
+    else:
+      print('Insira uma mídia válida')
