@@ -23,6 +23,17 @@ Um agradecimento aos colegas da [Economics Trash Group](https://www.facebook.com
 *   New york times
 *   BBC
 
+## Câmbio e bolsa de valores
+* Ibovespa
+* Dólar comercial
+* Dólar turismo
+* Euro turismo
+* Itaú PN
+* Vale ON
+* Bradesco PN
+* Petrobras PN
+* B3 ON
+
 ##  É simples, fácil e rápido!!
 1. Acesse o notebook: https://colab.research.google.com/drive/1mNBVCVGtDl00dUergrApEryTR2ObOnTD?usp=sharing
 2. Execute a célula com as Bibliotecas, e depois a célula com o script.
@@ -56,8 +67,6 @@ Existem alguns erros que ainda não foram corrigidos:
 * Correção dos erros citados acima;
 
 * Aplicação em chatbot no Telegram (*já em andamento*);
-
-* Cotação diária do dólar
 
 * Data e horário de acesso
 
