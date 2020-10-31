@@ -68,7 +68,9 @@ Existem alguns erros que ainda não foram corrigidos:
 
 * O Valor Econômico está sem os links;
 
-* Alguns (poucos) estão sem a data/horário de publicação.
+* Alguns (poucos) estão sem a data/horário de publicação;
+
+* O chatbot ainda não funciona 24h por dia.
 
 ## PRÓXIMOS PASSOS:
 * Correção dos erros citados acima;
