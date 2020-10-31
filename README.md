@@ -54,6 +54,12 @@ Apenas clique em "Executar mesmo assim"
 Script em .py pra quem preferir https://tinyurl.com/y5vp5yjz
 
 
+## Chatbot no Telegram
+Receba as notícias direto do seu Telegram usando o robô **Econoticias_bot**
+<img src="https://github.com/Patotricks15/Econoticias/blob/main/ecobot_1.JPG" width="30%"></img>
+<img src="https://github.com/Patotricks15/Econoticias/blob/main/ecobot_2.JPG" width="50%"></img>
+
+
 ## ATENÇÃO!!
 Existem alguns erros que ainda não foram corrigidos:
 
@@ -66,11 +72,7 @@ Existem alguns erros que ainda não foram corrigidos:
 ## PRÓXIMOS PASSOS:
 * Correção dos erros citados acima;
 
-* Aplicação em chatbot no Telegram (*já em andamento*);
-
 * Data e horário de acesso
-
-* Redução do tamanho dos links
 
 * Análise de sentimento em cada notícia
 
