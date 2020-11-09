@@ -1,4 +1,8 @@
-# €conoticia$
+# ECONOTÍCIAS
+<p align="center">
+<img src="https://github.com/Patotricks15/Econoticias/blob/main/Econot%C3%ADcias.png" width="80%"></img></center>
+</p>
+
 O objetivo desse repositório é compartilhar um script de webscraping que obtém nome, data e link de notícias de economia em 15 jornais escolhidos, sendo eles nacionais 11 e 4 internacionais. A ideia é facilitar o acesso às novidades no mundo da economia através dos jornais. Ao invés de visitar um site de cada vez e procurar por notícias interessantes, esse projeto visa reduzir o tempo gasto com essa atividade, agrupando num único script as notícias recentes na área de economia nesses 15 jornais.
 
 Um agradecimento aos colegas da [Economics Trash Group](https://www.facebook.com/groups/685748314956833/) pelas recomendações!!
