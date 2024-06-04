@@ -8,7 +8,7 @@ The aim of this project is to facilitate access to the latest news in the world 
 A special thanks to my colleagues from the [Economics Trash Group](https://www.facebook.com/groups/685748314956833/) for their recommendations!!
 
 
-## Nacionals
+## Nationals
 *   G1
 *   BBC Brasil
 *   Nexo Jornal
@@ -21,7 +21,7 @@ A special thanks to my colleagues from the [Economics Trash Group](https://www.f
 *   Exame
 *   Blog do IBRE
 
-## Internacionals
+## Internationals
 *   Vox
 *   Financial times
 *   New york times
