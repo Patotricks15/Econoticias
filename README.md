@@ -3,12 +3,12 @@
 <img src="https://github.com/Patotricks15/Econoticias/blob/main/Econot%C3%ADcias.png" width="80%"></img></center>
 </p>
 
-O objetivo desse repositório é compartilhar um script de webscraping que obtém nome, data e link de notícias de economia em 15 jornais escolhidos, sendo eles nacionais 11 e 4 internacionais. A ideia é facilitar o acesso às novidades no mundo da economia através dos jornais. Ao invés de visitar um site de cada vez e procurar por notícias interessantes, esse projeto visa reduzir o tempo gasto com essa atividade, agrupando num único script as notícias recentes na área de economia nesses 15 jornais.
+The aim of this project is to facilitate access to the latest news in the world of economics through newspapers. Instead of visiting each website individually and searching for interesting news, this project aims to reduce the time spent on this activity by aggregating recent news in the field of economics from these 15 newspapers into a single script.
 
-Um agradecimento aos colegas da [Economics Trash Group](https://www.facebook.com/groups/685748314956833/) pelas recomendações!!
+A special thanks to my colleagues from the [Economics Trash Group](https://www.facebook.com/groups/685748314956833/) for their recommendations!!
 
 
-## Nacionais
+## Nacionals
 *   G1
 *   BBC Brasil
 *   Nexo Jornal
@@ -21,7 +21,7 @@ Um agradecimento aos colegas da [Economics Trash Group](https://www.facebook.com
 *   Exame
 *   Blog do IBRE
 
-## Internacionais
+## Internacionals
 *   Vox
 *   Financial times
 *   New york times
